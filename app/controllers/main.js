@@ -2,6 +2,9 @@ var nguoiDungService = new NguoiDungService();
 
 getListUser();
 
+function themNguoiDung(){
+  console.log("them nguoi dung them 2");
+}
 function getListUser() {
   nguoiDungService
     .layDanhSachNguoiDung()
