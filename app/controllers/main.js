@@ -3,7 +3,7 @@ var nguoiDungService = new NguoiDungService();
 getListUser();
 
 function themNguoiDung(){
-  console.log("themNguoiDung sfs");
+  console.log("them nguoi dung them 2");
 }
 function getListUser() {
   nguoiDungService
